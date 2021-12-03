@@ -1,2 +1,2 @@
-![alt text](https://www.researchgate.net/profile/Arveen-Kaur/publication/334734251/figure/fig1/AS:807063785598981@1569430409834/Participants-mood-rating-scale.ppm)
+![alt text](https://cdn.shopify.com/s/files/1/0517/5348/4458/files/MOOD_LARGER_1000x1000.jpg?v=1613131080)
 Big Mood
