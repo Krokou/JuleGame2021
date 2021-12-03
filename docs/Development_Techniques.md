@@ -15,7 +15,7 @@ Why? For better communication and to avoid misunderstandings
 ## Mood Boards
 ![Mood Board](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/83545626/original/3b39f14c275842188bed7d1ebd2432754d13c3f6/do-pinterest-moodboard-or-fashion-mood-board.jpg)
 ## Animation Breakdown Keys
-![Breakdown Keys](https://learn.toonboom.com/modules/layout-and-posing/Resources/Images/HAR/Stage/Paperless/HAR11_paperless_key.png)
+![Breakdown Keys](https://static.wikia.nocookie.net/leagueoflegends/images/0/00/Sett_Concept_05.jpg/revision/latest/scale-to-width-down/640?cb=20200114192048)
 ## Storyboarding
 ![Storyboarding](https://cdna.artstation.com/p/assets/covers/images/009/797/332/medium/erica-wilks-last-of-us-storyboard-page-2.jpg?1520956349)
 ## Style Guides
