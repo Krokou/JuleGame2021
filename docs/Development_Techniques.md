@@ -1,3 +1,23 @@
+# Table of Content
+- [Workflow](#workflow)
+  * [Conceptualize -> Revize -> Prototype -> Iterate -> Implement](#conceptualize----revize----prototype----iterate----implement)
+  * [Bias Towards Action](#bias-towards-action)
+- [Extreme Programming (XP)](#extreme-programming--xp-)
+  * [Pair Programming](#pair-programming)
+  * [Peer Reviews](#peer-reviews)
+- [Prototyping and Proof of Concept Practices](#prototyping-and-proof-of-concept-practices)
+  * [Concept Art](#concept-art)
+  * [Mood Boards](#mood-boards)
+  * [Animation Breakdown Keys](#animation-breakdown-keys)
+  * [Storyboarding](#storyboarding)
+  * [Style Guides](#style-guides)
+  * [Paper Prototyping (coding)](#paper-prototyping--coding-)
+  * [UML](#uml)
+    + [Flow Charts / Scenarios](#flow-charts---scenarios)
+    + [Sequence Diagrams](#sequence-diagrams)
+    + [State Diagrams / Machines](#state-diagrams---machines)
+    + [Class Diagrams](#class-diagrams)
+
 # Workflow
 ## Conceptualize -> Revize -> Prototype -> Iterate -> Implement
 ## Bias Towards Action
