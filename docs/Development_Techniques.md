@@ -13,7 +13,7 @@ Why? For better communication and to avoid misunderstandings
 ![Tux, the Linux mascot](/assets/images/tux.png)
 ## Mood Boards
 ![Tux, the Linux mascot](/assets/images/tux.png)
-## Animation Tables
+## Animation Breakdown Key
 ![Tux, the Linux mascot](/assets/images/tux.png)
 ## Storyboarding
 ![Tux, the Linux mascot](/assets/images/tux.png)
