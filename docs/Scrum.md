@@ -2,9 +2,10 @@
 The project will utilize the following sprint program:
 
 ## 1 Week Sprints
+A *sprint* is a time period with a specific product goal in mind. By the end of a sprint, the corresponding sprint goals should have been fulfilled, and if not, should be discarded or included in a following sprint.
 ## Weekly Sprint Planning Meetings on Monday
 During this meeting the team will discuss:
-- What to do
+- What to do (sprint goals)
   - Who will do it
   - Time estimation
   - Deadline
