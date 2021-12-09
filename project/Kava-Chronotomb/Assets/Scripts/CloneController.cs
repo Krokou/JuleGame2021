@@ -8,7 +8,8 @@ public class CloneController : MonoBehaviour
     // When done pls stop without errors.
 
     // EVERY CLONE HAS THEIR OWN CLONE CONTROLLER
-    
+    private PlayerController playerController;
+
     private Rigidbody cloneRB;
     private ushort startFrame = 0;
     public float speed = 10f;
@@ -20,6 +21,7 @@ public class CloneController : MonoBehaviour
     
     private void Start(){
         cloneRB = GetComponentInChildren<Rigidbody>();
+        playerController = FindObjectOfType<PlayerController>();
     }
     
     private void FixedUpdate() {
@@ -28,7 +30,15 @@ public class CloneController : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter(Collision other) {
+        if (other.gameObject.tag == "Red") {
+            playerController.ToggleTimeSplit();
+        }
+    }
 
+    private void OnTriggerExit(Collider other) {
+        Physics.IgnoreCollision(other.gameObject.GetComponentInChildren<Collider>(), GetComponentInChildren<Collider>(), false);
+    }
 
     public void StartCloneMovement(ushort frame){
         controllerBoolean = true;

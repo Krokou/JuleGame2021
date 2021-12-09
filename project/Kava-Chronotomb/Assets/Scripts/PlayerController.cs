@@ -53,7 +53,7 @@ public class PlayerController : MonoBehaviour
 
 
     // Toggles the state of being in a time split, and calls all necessary game logic
-    private void ToggleTimeSplit() {
+    public void ToggleTimeSplit() {
         if (currentPlayer.Equals(mainPlayer)) {
             playerRB.isKinematic = true;
             childBody.SetActive(false);
@@ -213,6 +213,8 @@ public class PlayerController : MonoBehaviour
 
         redClone = redPlayer.GetComponent<CloneController>();
         blueClone = bluePlayer.GetComponent<CloneController>();
+
+        Physics.IgnoreCollision(bluePlayer.GetComponentInChildren<Collider>(), redPlayer.GetComponentInChildren<Collider>(), true);
     }
 
     private void DestroyClones(){
