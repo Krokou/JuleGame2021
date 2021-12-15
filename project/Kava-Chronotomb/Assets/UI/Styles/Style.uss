@@ -1,0 +1,47 @@
+.button-style {
+    height: 33px;
+    width: 159px;
+    background-color: rgb(109, 137, 233);
+    color: rgba(0, 0, 0, 255);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    align-items: auto;
+}
+
+.button-style:hover {
+    height: 33px;
+    width: 159px;
+    background-color: rgb(245, 140, 148);
+    color: rgb(0, 0, 0);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    align-items: auto;
+}
+
+.button-style:active {
+    height: 33px;
+    width: 159px;
+    background-color: rgb(243, 77, 89);
+    color: rgb(255, 255, 255);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    align-items: auto;
+}
